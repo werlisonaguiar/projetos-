@@ -17,7 +17,10 @@
     list-style: none;
 
 }
+  .menu :hover{
 
+    color: aqua;
+  }
      
 
     :root
